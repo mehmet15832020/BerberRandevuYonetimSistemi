@@ -1,0 +1,10 @@
+﻿# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build output
+bin/
+obj/
